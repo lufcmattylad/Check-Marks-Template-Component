@@ -1,0 +1,36 @@
+{
+  "name": "Check Marks",
+  "version": "23.2.1",
+  "description": "Displays Truthy (T, Y, 1) & Falsey (F, N, 0) as an Icon with alternative icons for Null and Other values",
+  "keywords": ["check","tick","cross", "times", "template", "component", "truthy", "falsey"],
+  "homepage": "https://github.com/lufcmattylad/Check-Marks-Template-Component",
+  "bugs": {
+    "url": "https://github.com/lufcmattylad/Check-Marks-Template-Component/issues",
+    "email": "lufcmattylad+check-marks-template-component@gmail.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Matt Mulvaney",
+    "email": "lufcmattylad+contact@gmail.com",
+    "url": "https://x.com/Matt_Mulvaney",
+    "twitter": "Matt_Mulvaney",
+    "donationUrl": "https://www.justgiving.com/saintmichaelshospice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lufcmattylad/Check-Marks-Template-Component.git"
+  },
+  "oracle": {
+    "versions": ["23.2.0", "21.1.0", "19.1.0"],
+    "apex": {
+      "versions": ["23.2.0"],
+      "plugin": {
+        "internalName": "APEX.LUFCMATTYLAD.CHECK_MARKS",
+        "type": "template component",
+        "demo": "https://apex.oracle.com/pls/apex/r/luf/check-marks",
+        "previewImage": "https://raw.githubusercontent.com/lufcmattylad/Check-Marks-Template-Component/main/assets/preview.png?raw=true"
+      }
+    }
+  }
+}
