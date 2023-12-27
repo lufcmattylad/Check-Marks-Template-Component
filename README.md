@@ -153,6 +153,16 @@ FROM
   ) jt
 ```
 
+## Version History
+
+### 23.2.2 (Dec 2023)
+
+#### Fixes
+- Lowercase t & y now recognised as Truthy
+
+### 23.2.1 (Oct 2023)
+- Initial Release
+
 ## Donations
 
 Donations to [Saint Michael's Hospice](https://saintmichaelshospice.org/support-our-work/donate/one-off-donation/) are welcome

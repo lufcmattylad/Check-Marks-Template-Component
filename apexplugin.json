@@ -1,6 +1,6 @@
 {
   "name": "Check Marks",
-  "version": "23.2.1",
+  "version": "23.2.2",
   "description": "Displays Truthy (T, Y, 1) & Falsey (F, N, 0) as an Icon with alternative icons for Null and Other values",
   "keywords": ["check","tick","cross", "times", "template", "component", "truthy", "falsey"],
   "homepage": "https://github.com/lufcmattylad/Check-Marks-Template-Component",
